@@ -1,0 +1,6 @@
+if SHIELD_JAKE2
+
+config ZMK_KEYBOARD_NAME
+    default "jake2"
+
+endif
